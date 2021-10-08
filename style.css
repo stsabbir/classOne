@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.178);
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(7, 54, 54, 0.068);
+    color: #000;
+    outline: none;
+}
